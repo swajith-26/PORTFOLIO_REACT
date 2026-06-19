@@ -16,7 +16,7 @@ function Projects() {
         </div>
 
         <div className="project-card">
-          <h3>Netflix Clone</h3>
+          <h3>Book my show clone</h3>
 
           <p>
             Responsive UI built using React JS.
